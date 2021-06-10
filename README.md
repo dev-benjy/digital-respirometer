@@ -6,3 +6,4 @@ The values used can be calibrated for the three readings we can achieve. Manual 
 Please email me ben96.jc@gmail.com if you have any questions
 
 THIS APP IS PURELY A TEST PROJECT MADE BY AN ENTHUSIASTIC INDIVIDUAL. DO NOT USE THIS FOR ANY MEDICAL PURPOSE!!
+SEE VIDEO HERE: https://drive.google.com/drive/folders/1R3oYBwQ5KINZHrWnpXoHR9bpVWoQUsuQ?usp=sharing
